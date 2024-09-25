@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charly0n3</h1>
 <h3 align="center">Junior SysAdmin</h3>
 
-- 🌱 I’m currently learning **Pentesting, Blockchain and Python**
-
-- 📝 I regularly write articles on [www.elrincondecharly.net](www.elrincondecharly.net)
+- 🌱 I’m currently learning **Cloud, Linux and cibersecurity**
 
 - 📫 How to reach me **carlosrubiot@proton.me**
 
