@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charly0n3</h1>
 <h3 align="center">Junior SysAdmin</h3>
 
-- 🌱 I’m currently learning **Cloud, Linux and cibersecurity**
+- 🌱 I’m currently learning **Cloud, Linux and IA**
 
 - 📫 How to reach me **carlosrubiot@proton.me**
 
